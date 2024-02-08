@@ -3,7 +3,8 @@
 
     “Nonsense!” said Alice, very loudly and  
 decidedly, and the Queen was silent.
-The King laid his hand upon her arm, and  
+
+    The King laid his hand upon her arm, and  
 timidly said, “Consider, my dear: she is only
 a child!”
 
