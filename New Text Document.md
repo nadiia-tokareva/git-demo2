@@ -2,12 +2,10 @@
 118 
 
 “Nonsense!” said Alice, very loudly and  
-
-decidedly, and the Queen was silent.
-The King laid his hand upon her arm, and
-  
+decidedly, and the Queen was silent.<br>
+The King laid his hand upon her arm, and  
 timidly said, “Consider, my dear: she is only
-a child!”
+a child!”<br>
 
 The Queen turned angrily away from him,  
 and said to the Knave, “Turn them over!”
