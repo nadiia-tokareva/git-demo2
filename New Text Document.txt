@@ -2,7 +2,7 @@
 118 
 
 <pre>“Nonsense!” said Alice, very loudly and  
-decidedly, and the Queen was silent.
+decidedly, and the Queen was silent.</pre>
 
 <p>“Nonsense!” said Alice, very loudly and  
 decidedly, and the Queen was silent.</p>
