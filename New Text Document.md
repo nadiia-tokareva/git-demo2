@@ -9,7 +9,7 @@ a child!”
 &nbsp;&nbsp;&nbsp;The Queen turned angrily away from him,  
 and said to the Knave, “Turn them over!”  
 &nbsp;&nbsp;&nbsp;The Knave did so, very carefully, with one  
-foot.
+foot.  
 &nbsp;&nbsp;&nbsp;“Get up!” said the Queen in a shrill, loud  
 voice, and the three gardeners instantly jumped  
 up, and began bowing to the King, the Queen,  
